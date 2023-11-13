@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "695479307466",
+    "project_id": "hotel-booking-app-ba518",
+    "storage_bucket": "hotel-booking-app-ba518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695479307466:android:fa85d77d713f6715987833",
+        "android_client_info": {
+          "package_name": "com.booking.com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695479307466-7feplqhfg05vj7pk3ob9ods1ne66l5aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booking.com.app",
+            "certificate_hash": "066b7b125bc738b04ab08b2bfb952dc01d2029d6"
+          }
+        },
+        {
+          "client_id": "695479307466-illfj10o76q9spu1r1irg7g798ifmjhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booking.com.app",
+            "certificate_hash": "4bcb62690e7ae4597d8c363bc9fdacae44baf720"
+          }
+        },
+        {
+          "client_id": "695479307466-7h9jv375bcekctgfgf7lai9m6tprpn65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Tq9YrLnjV73guanGuKsawDhaT22PbdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695479307466-7h9jv375bcekctgfgf7lai9m6tprpn65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
