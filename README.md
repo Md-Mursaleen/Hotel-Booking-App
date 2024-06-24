@@ -28,3 +28,27 @@ The Hotel Booking App is a cross-platform mobile application built with React Na
 5. **Start the application**:
    ```bash
    npm start
+
+## Usage
+
+1. **Sign Up / Login**: Create an account or log in.
+2. **Browse Hotels**: Explore hotels at your desired locations.
+3. **Book a Room**: Select the number of adults, children, and room type, then book.
+4. **Track Bookings**: View and manage your bookings in real-tim.
+5. **Manage Profile**: Update profile information and view booking history.
+
+## Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch
+3. Make changes and commit them:
+   ```bash
+   git commit -m 'Add feature'
+4. Push to the branch:
+   ```bash
+   git push origin feature-branch
+5. Open a pull request.      
